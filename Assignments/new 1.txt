@@ -1,0 +1,25 @@
+python
+
+-------------------------------
+1. it is know as for short coding.
+
+career in python
+------------------
+1.web devlopment.
+2. Machine Learning.
+3. Data Science.
+4. Data Analytics.
+5. IOT--> Internet of thinks.
+6. Game Devlopment.
+7. AI
+
+github
+--------
+ID:-https://github.com/sushilkumar12749/17july_sushil_Python.git
+Commond:-echo "# 17july_sushil_Python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sushilkumar12749/17july_sushil_Python.git
+git push -u origin main
